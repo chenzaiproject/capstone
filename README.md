@@ -21,9 +21,9 @@ Clone the repo and install dependencies:
 git clone https://github.com/chenzaiproject/capstone.git
 cd capstone
 pip install -r requirements.txt
+```
 
-
-Data Access Statement
+##Data Access Statement
 This project uses publicly available data from the National Health and Nutrition Examination Survey (NHANES), conducted by the U.S. Centers for Disease Control and Prevention (CDC).
 Source: CDC NHANES
 Access: Data can be freely downloaded from the CDC NHANES website in XPT (SAS Transport) format.
