@@ -22,7 +22,7 @@ git clone https://github.com/chenzaiproject/capstone.git
 cd capstone
 pip install -r requirements.txt
 ```
-The merged and cleaned dataset is in the `data` folder under `merged_nhanes_data.csv`. Our clustering notebook uses the URL to read the prepared CSV file, so it can be run on its own without the data cleaning notebook.
+The merged and cleaned dataset is in the `data` folder under `merged_nhanes_data.csv`. Our clustering notebook uses the URL to read the prepared CSV file, so it can be run on its own.
 
 ## Data Access Statement
 This project uses publicly available data from the National Health and Nutrition Examination Survey (NHANES), conducted by the U.S. Centers for Disease Control and Prevention (CDC).\
