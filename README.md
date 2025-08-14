@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Data Access Statement
 This project uses publicly available data from the National Health and Nutrition Examination Survey (NHANES), conducted by the U.S. Centers for Disease Control and Prevention (CDC).\
-Source: CDC NHANES
-Access: Data can be freely downloaded from the CDC NHANES website in XPT (SAS Transport) format.
-License: NHANES data are in the public domain and may be used without restriction; citation of the source is appreciated.
-Ownership: Data are collected and maintained by the CDC National Center for Health Statistics (NCHS).
-Note: This repository does not redistribute NHANES data. Users must download the datasets directly from the official CDC website.
+Source: CDC NHANES\
+Access: Data can be freely downloaded from the CDC NHANES website in XPT (SAS Transport) format.\
+License: NHANES data are in the public domain and may be used without restriction; citation of the source is appreciated.\
+Ownership: Data are collected and maintained by the CDC National Center for Health Statistics (NCHS).\
+Note: This repository does not redistribute NHANES data. Users must download the datasets directly from the official CDC website.\
