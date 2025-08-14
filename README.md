@@ -1,4 +1,4 @@
-# Capstone Health Clustering Project
+# Identifying hidden health profiles through NHANES data
 
 This repository presents an unsupervised learning analysis of health profiles using a merged NHANES dataset. Clustering techniques (GMM, PCA, t-SNE) were used to explore patterns in body morphology, cardiovascular health, glucose levels, and socioeconomic correlates.
 
